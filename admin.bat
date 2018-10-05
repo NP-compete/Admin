@@ -1,5 +1,3 @@
-REM  --> Tested on Windows 8
-
 @echo off
 
 :: BatchGotAdmin
